@@ -1,0 +1,11 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.smajslo.unscrollifyhotbar.mixins",
+  "refmap": "refmap.unscrollifyhotbar.json",
+  "mixins": [],
+  "client": [
+    "PlayerInventoryMixinHead",
+    "PlayerInventoryMixinTail"
+  ],
+  "server": []
+}
